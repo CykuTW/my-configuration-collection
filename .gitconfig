@@ -1,0 +1,10 @@
+[user]
+	name = cyku@cyku.tw
+	email = cyku@cyku.tw
+[core]
+	editor = vim
+[http]
+	sslVerify = false
+[alias]
+	logf = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset'
+	logp = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset'
